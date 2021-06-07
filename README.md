@@ -1,4 +1,4 @@
-# Multimodal-Shape-Completion
+# Multimodal-Shape-Completion (Testing Corner)
 
 This repository provides PyTorch implementation of our paper:
 
